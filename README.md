@@ -12,4 +12,9 @@ git branch dev # dev is a random name
 git branch
 git checkout dev
 
+git checkout master
+git merge dev # merges dev into current branch which is master
+
+git status
+
 ```
